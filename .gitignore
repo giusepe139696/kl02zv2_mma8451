@@ -5,3 +5,8 @@
 
 # Excluye carpeta FreeRTOS_TAD_logs
 /FreeRTOS_TAD_logs/
+
+# Excluye carpeta temporal Debug/Release 
+/NP_mma8451/Debug/
+/NP_mma8451/Release/
+/NP_mma8451/doc/
