@@ -1,7 +1,6 @@
 /*! @file : sdk_i2c0.c
- * @author  jose .o
+ * @author Jose .o
  * @version 1.0.0
- * @date    18/01/2021
  * @brief   Driver para I2C con ACCEL
  * @details
  *
