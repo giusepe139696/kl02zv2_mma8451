@@ -1,6 +1,4 @@
-/*
- * Project #2
- */
+
 #include <stdio.h>
 #include "board.h"
 #include "peripherals.h"
