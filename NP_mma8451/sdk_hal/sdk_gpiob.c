@@ -1,7 +1,6 @@
 /*! @file : sdk_gpiob.c
- * @author  Jose .o
+ * @author  Jose o.
  * @version 1.0.0
- * @date    17/01/2021
  * @brief   Driver para GPIOB
  * @details
  *
