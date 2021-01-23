@@ -1,6 +1,7 @@
 /*! @file : sdk_gpiob.h
- * @author  Jose .o
+ * @author jose .o
  * @version 1.0.0
+ * @date    17/01/2021
  * @brief   Driver para GIPOB
  * @details
  *

@@ -1,8 +1,6 @@
 /*! @file : sdk_uart0.h
- * @author  Alvaro Luis Garcia Romero (Quote)
+ * @author Jose .o
  * @version 1.0.0
- * @date    17/01/2021
- * @brief   Driver para UART0
  * @details
  *
  */

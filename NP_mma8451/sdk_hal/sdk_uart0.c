@@ -1,7 +1,6 @@
 /*! @file : sdk_uart0.c
  * @author  Jose .o
  * @version 1.0.0
- * @brief   Driver para UART0
  * @details
  *
 */

@@ -1,8 +1,7 @@
 /*! @file : sdk_i2c0.h
- * @author  Jose .o
+ * @author  jose .o
  * @version 1.0.0
- * @brief   Driver para I2C con ACCEL
- * @details
+
  *
  */
 #ifndef SDK_I2C0_H_
